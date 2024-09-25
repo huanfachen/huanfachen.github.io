@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "huanfa_ucl.jpg"
+  avatar           : "huanfa_ucl.png"
   name             : "Huanfa Chen"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor in GIScience, UCL CASA"
