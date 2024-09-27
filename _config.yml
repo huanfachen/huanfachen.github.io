@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "huanfa_ucl_240_240.png"
   name             : "Huanfa Chen"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Associate Professor in GIScience, UCL CASA"
   location         : "London, UK"
   employer         : "University College London"
