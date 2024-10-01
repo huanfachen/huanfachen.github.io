@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Huanfa Chen's website"
+title                    : "Huanfa Chen's GIS Land"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
