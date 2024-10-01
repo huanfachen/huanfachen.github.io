@@ -1,7 +1,11 @@
 ---
- layout: post
-
-
+title: 'Mathematical writing notes'
+date: 2024-02-29
+permalink: /posts/2024/02/Mathematical_writing_notes/
+tags:
+  - AcademicWriting
+  - Writing
+  - NA
 ---
 
 Updates 2024/02/29

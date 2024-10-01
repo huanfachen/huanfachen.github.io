@@ -1,6 +1,12 @@
 ---
-  layout: post
-
+title: 'Using benchmark OR baseline?'
+date: 2024-07-03
+permalink: /posts/2024/07/Using_benchmark_or_baseline/
+tags:
+  - Writing
+  - AcademicWriting
+  - NA
+  - NA
 ---
 
 Updates 2024/07/03

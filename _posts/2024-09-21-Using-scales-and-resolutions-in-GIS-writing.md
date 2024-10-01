@@ -1,7 +1,12 @@
 ---
- layout: post
-
-
+title: 'Using scales and resolution in GIS writing'
+date: 2024-09-21
+permalink: /posts/2024/09/Using_scales_and_resolution_in_GIS_writing/
+tags:
+  - Writing
+  - AcademicWriting
+  - GIS
+  - NA
 ---
 
 Updates 2024/09/21

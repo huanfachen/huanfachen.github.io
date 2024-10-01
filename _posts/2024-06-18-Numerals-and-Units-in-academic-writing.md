@@ -1,8 +1,13 @@
 ---
-  layout: post
-
+title: 'Numerals and units in academic writing.md'
+date: 2024-06-18
+permalink: /posts/2024/06/Numerals_and_Units_in_academic_writing/
+tags:
+  - Writing
+  - AcademicWriting
+  - NA
+  - NA
 ---
-
 Updates 2024/06/18
 
 I always forget how to use numerals and units in academic writing - when I should spell out numbers and when I should not. There are general rules and many 'exceptions'. Therefore, I decide to write a blog on this topic.

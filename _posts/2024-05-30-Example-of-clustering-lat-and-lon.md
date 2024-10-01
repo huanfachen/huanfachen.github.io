@@ -1,5 +1,12 @@
 ---
-  layout: post
+title: 'Example of clustering on latitude and longitude'
+date: 2024-05-30
+permalink: /posts/2024/05/Clustering_latitude_and_longitude/
+tags:
+  - Clustering
+  - GIS
+  - KMeans
+  - NA
 ---
 
 Updates 2025/05/30

@@ -1,5 +1,12 @@
 ---
-  layout: post
+title: 'Using ChatGPT in academic accessments'
+date: 2024-06-07
+permalink: /posts/2024/06/Using_ChatGPT_in_academic_accessments/
+tags:
+  - Chatgpt
+  - AcademicWriting
+  - NA
+  - NA
 ---
 
 Updates 2025/06/07

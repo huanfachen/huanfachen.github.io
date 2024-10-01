@@ -1,5 +1,12 @@
 ---
-  layout: post
+title: 'RAM Control for WSL'
+date: 2024-04-29
+permalink: /posts/2024/04/RAM_control_for_WSL/
+tags:
+  - Computers
+  - Windows
+  - WSL
+  - Linux
 ---
 
 Updates 2024/04/29

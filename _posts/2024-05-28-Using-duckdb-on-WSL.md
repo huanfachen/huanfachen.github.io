@@ -1,5 +1,12 @@
 ---
-  layout: post
+title: 'Using duckbd on WSL'
+date: 2024-05-28
+permalink: /posts/2024/05/Using_duckdb_on_WSL/
+tags:
+  - Computers
+  - Windows
+  - WSL
+  - Linux
 ---
 
 Updates 2025/05/28

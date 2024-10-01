@@ -1,8 +1,11 @@
 ---
- layout: post
-
-
-
+title: 'Notes on multiple objective combinatorial optimisation problems'
+date: 2024-01-31
+permalink: /posts/2024/01/Notes_multiple_objective_optimisation/
+tags:
+  - Optimisation
+  - MultipleObjective
+  - MOO
 ---
 
 Updates 2024/01/31
