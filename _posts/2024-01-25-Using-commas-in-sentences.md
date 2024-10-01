@@ -1,6 +1,11 @@
 ---
-  layout: post
-
+title: 'Using commas in sentences'
+date: 2024-01-25
+permalink: /posts/2024/01/Using_commas_in_sentences/
+tags:
+  - AcademicWriting
+  - Writing
+  - NA
 ---
 
 Updates 2024/01/25

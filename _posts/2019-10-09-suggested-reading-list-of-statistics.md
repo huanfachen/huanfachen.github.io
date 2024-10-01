@@ -1,5 +1,11 @@
 ---
-layout: post
+title: 'Suggested Reading List of Statistics'
+date: 2019-10-09
+permalink: /posts/2019/10/Reading_list_statistics/
+tags:
+  - Statistics
+  - ReadingList
+  - NA
 ---
   
 Below is a list of suggested reading and MOOCs on statistics, which are very useful for me. They are classified into three levels, namely Beginner, Intermediante, Advanced.

@@ -1,8 +1,14 @@
 ---
-  layout: post
+title: 'Open Source tools for location cover models'
+date: 2022-11-04
+permalink: /posts/2022/11/Open_source_location_cover_models/
+tags:
+  - Python
+  - Spatial_optimisation
+  - NA
 ---
 
-Updates 2022/11/04
+Last updates 2022/11/04
 
 Our paper on '[Open-source approaches for location cover models: capabilities and efficiency](https://link.springer.com/10.1007/s10109-021-00350-w)' has been published on Journal of Geographical Systems. This paper critically reviews the open source tools for location cover models (more specifically, MCLP and LSCP) using ArcGIS location-allocation analysis as the baseline.
 

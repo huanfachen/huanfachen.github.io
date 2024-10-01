@@ -1,6 +1,11 @@
 ---
-  layout: post
-
+title: 'Race Ethnicity Difference'
+date: 2023-03-03
+permalink: /posts/2023/03/Race_Ethnicity_Difference/
+tags:
+  - Demographic
+  - GIS
+  - NA
 ---
 
 Updates 2023/03/03

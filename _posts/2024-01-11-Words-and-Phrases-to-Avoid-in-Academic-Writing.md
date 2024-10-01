@@ -1,6 +1,11 @@
 ---
-  layout: post
-
+title: 'Words and Phrases to avoid in academic writing'
+date: 2024-01-11
+permalink: /posts/2024/01/Words_and_Phrases_to_avoid_in_academic_writing/
+tags:
+  - AcademicWriting
+  - Writing
+  - NA
 ---
 
 Updates 2024/01/11

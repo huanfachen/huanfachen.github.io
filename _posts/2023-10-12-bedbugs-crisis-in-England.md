@@ -1,7 +1,11 @@
 ---
-  layout: post
-
-
+title: 'Is there a bedbug crisis in England?'
+date: 2023-10-12
+permalink: /posts/2023/10/Bedbug_crisis_England/
+tags:
+  - UKLife
+  - Miscellaneous
+  - NA
 ---
 
 Updates 2023/10/12
@@ -15,4 +19,6 @@ This is an interesting case study of seeking truth in the 'post-truth' era!
 I tried different data sources to answer this question.
 
 Inspired by several posts, I decided to start with Google trend to investigate *bedbugs*.
+
+To be continued ...
 

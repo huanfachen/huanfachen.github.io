@@ -1,5 +1,11 @@
 ---
-layout: post
+title: 'Removing dataframe duplicates by two cols'
+date: 2019-11-22
+permalink: /posts/2019/11/Removing_dataframe_duplicates/
+tags:
+  - RLanguage
+  - Programming
+  - NA
 ---
 
 This R code solves the problem of removing duplicates in a dataframe, by comparing the unordered values of two columns. 
