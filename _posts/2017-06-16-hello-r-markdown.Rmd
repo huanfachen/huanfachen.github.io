@@ -1,5 +1,11 @@
 ---
-layout: post
+title: 'Hello R Markdown'
+date: 2017-06-16
+permalink: /posts/2017/06/Hello_r_markdown/
+tags:
+  - RLanguage
+  - Programming
+  - NA
 ---
 
 You’ll find this post in your `_source` directory. Unlike the other example post on this blog (found in `_posts`), this one was written in R Markdown.
