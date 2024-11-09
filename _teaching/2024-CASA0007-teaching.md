@@ -14,9 +14,9 @@ This module is designed to demonstrate the integral part that quantitative metho
 
 Lecturer: Dr Huanfa Chen (that is me), Porf Hannah Fry
 
-Github link: https://github.com/huanfachen/QM_2024
+[Github link ](https://github.com/huanfachen/QM_2024)
 
-UCL Moodle link (requiring UCL login): https://moodle.ucl.ac.uk/course/view.php?id=42088
+[UCL Moodle link](https://moodle.ucl.ac.uk/course/view.php?id=42088) (requiring UCL login)
 
 Outline
 ======
