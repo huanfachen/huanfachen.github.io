@@ -1,5 +1,5 @@
 ---
-title: "CASA0007_Quantitative_Methods"
+title: "CASA0007 Quantitative Methods"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2024-Term-1-CASA0007-teaching
@@ -29,13 +29,14 @@ Outline
 | 4    | Hypothesis Testing                                           |
 | 5    | Advanced Regression (multiple regression, variable selection, logistic regression) |
 |      | READING WEEK                                                 |
-| 6    | Optimising Limited Resources (Linear Programming)**          |
+| 6    | Optimising Limited Resources (Linear Programming)            |
 | 7    | Clustering Analysis (kmeans, hierarchical clustering)        |
 | 8    | Modelling the World (agent-based simulation)                 |
 | 9    | Advanced topics (data visualisation, selecting references)   |
 
-Heading 2
+Assessments
 ======
 
-Heading 3
-======
+Group work and presentation (30%)
+
+Written investigation (70%)
