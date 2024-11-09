@@ -21,13 +21,8 @@ For latest news, please visit [here]().
 
 # Working with me?
 
-PhD positions:
+PhD positions: please email me with your CV and 1-page research proposal on the topic that you think we are both interested in. 
 
-Research associate/assistant positions:
+Research associate/assistant positions: TBC.
 
 Collaborations on papers: please email me.
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
