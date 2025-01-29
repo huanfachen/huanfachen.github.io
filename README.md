@@ -1,3 +1,8 @@
+# Updates
+The 'Guide' is hidden on the top menu. To reactivate it, visit _data/navigation.yml and uncomment the last one.
+
+To see the markdown guide, add /markdown/ to the root URL.
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
