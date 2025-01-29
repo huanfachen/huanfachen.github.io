@@ -277,7 +277,7 @@ defaults:
       path: ""
       type: news
     values:
-      layout: news
+      layout: single
       author_profile: true
       share: true
 
