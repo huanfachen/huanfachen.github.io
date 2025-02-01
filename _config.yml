@@ -83,7 +83,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-google_analytics         : UA-96998681-1
+# google_analytics         : UA-96998681-1
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
