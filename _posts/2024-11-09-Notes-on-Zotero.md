@@ -1,5 +1,5 @@
 ---
-title: 'Notes-on-Zotero'
+title: 'Notes on Zotero'
 date: 2024-11-09
 permalink: /posts/2024/11/09/Notes-on-Zotero/
 tags:
