@@ -94,7 +94,7 @@ comments                 : true # true, false (default)
   # provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   provider               : "disqus"
   disqus:
-    shortname            : "huanfagis" # see https://disqus.com/admin/
+    shortname            : "huanfachen" # see https://disqus.com/admin/
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
