@@ -3,12 +3,18 @@ The 'Guide' is hidden on the top menu. To reactivate it, visit _data/navigation.
 
 To see the markdown guide, add /markdown/ to the root URL.
 
+Same for the 'Portfolio' tab. To view it, use URL of .../portfolio
+
 # TO-DO (02/02/2025)
 
-1. Hide Portfolio tab
-2. Change the link of 'Blog Posts' from '/year-archive' to 'posts'
-3. Enable Google Analytics
-4. Enable Disqus comments
+1. Enable Google Analytics
+
+# Routine updates
+1. **To add a blog post**: go to _posts folder, on Terminal run ```./new_blog.bat [blog title]```, then a new md file will appear with populated dates and settings. Then you can make edits. An alternative way is to copy any existing md file and then manually update the dates/contents/etc.
+1. **To check the updates**: after git add/commit/push, go to the Github repo page on browser, click 'commits'. If you can see a green tick and 3/3, it means the website has been deployed.
+1. 
+
+
 
 
 # Academic Pages
