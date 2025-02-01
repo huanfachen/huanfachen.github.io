@@ -24,7 +24,7 @@ author:
   avatar           : "Photo_Huanfa\ Chen.png" #"huanfa_ucl_240_240_v2.png"
   name             : "Huanfa Chen"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Associate Professor in GIScience, UCL CASA"
+  bio              : "Associate Professor in Spatial Data Science, UCL CASA"
   location         : "London, UK"
   employer         : "University College London"
   uri              : # URL
@@ -93,7 +93,7 @@ comments:
   # provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   provider               : "disqus"
   disqus:
-    shortname            :
+    shortname            : "huanfagis" # see https://disqus.com/admin/
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
