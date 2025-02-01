@@ -6,6 +6,7 @@ tags:
   - Writing
   - AcademicWriting
   - NA
+comments: true
 ---
 
 This post summarises key issues of using Zotero.
