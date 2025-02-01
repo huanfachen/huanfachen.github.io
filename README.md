@@ -3,6 +3,14 @@ The 'Guide' is hidden on the top menu. To reactivate it, visit _data/navigation.
 
 To see the markdown guide, add /markdown/ to the root URL.
 
+# TO-DO (02/02/2025)
+
+1. Hide Portfolio tab
+2. Change the link of 'Blog Posts' from '/year-archive' to 'posts'
+3. Enable Google Analytics
+4. Enable Disqus comments
+
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
