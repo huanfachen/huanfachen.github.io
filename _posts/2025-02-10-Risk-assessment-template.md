@@ -1,7 +1,7 @@
 ---
 title: 'Risk assessment template'
 date: 2025-02-06
-permalink: /posts/2025/06/books-academic-writing/
+permalink: /posts/2025/02/risk-assessment-template/
 tags:
   - AcademicWriting
   - books
@@ -10,7 +10,7 @@ tags:
 
 Updates 2025/02/10
 
-This post provides a list of potential hazards and effective control measures for filling out risk assessment forms. Feel free to copy and adapt them to suit your needs. Disclaimer: The information shared here is for general guidance only; it is important to conduct your own thorough assessments and consult with your company as necessary.
+This post provides a list of potential hazards and effective control measures for filling out risk assessment forms at UCL. Feel free to copy and adapt them to suit your needs. Disclaimer: The information shared here is for general guidance only; it is important to conduct your own thorough assessments and consult with your company as necessary.
 
 
 # Hazard 1
