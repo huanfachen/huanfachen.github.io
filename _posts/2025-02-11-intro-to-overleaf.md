@@ -1,5 +1,5 @@
 ---
-title: 'Intro to Overleat'
+title: 'Introduction to Overleaf'
 date: 2025-02-06
 permalink: /posts/2025/02/intro-to-overleaf/
 tags:
