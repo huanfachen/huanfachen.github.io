@@ -39,5 +39,5 @@ TL;DR: Using overleaf is much better than Microsoft Word (or MS Word) for academ
 
 # Tutorials of Overleaf
 
-1. UCL webpage and overleaf course at UCL: https://blogs.ucl.ac.uk/digital-education/2020/10/20/overleaf-now-available/
-2. Tutorials on Overleaf: https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes. Please note that you don't need to learn everything about overleaf and Latex in one go. You can download an Overleaf template and write your own draft using template, and gradually learn Overleaf techniques when needed.
+1. UCL webpage and overleaf course at UCL: see [link](https://blogs.ucl.ac.uk/digital-education/2020/10/20/overleaf-now-available/). 
+2. 30-minute tutorial from Overleaf ([link](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)). Please note that you don't need to learn everything about overleaf and Latex in one go. You can download an Overleaf template and write your own draft using template, and gradually learn Overleaf techniques when needed.
