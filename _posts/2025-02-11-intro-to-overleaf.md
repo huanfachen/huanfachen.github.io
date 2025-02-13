@@ -24,10 +24,10 @@ TL;DR: Using overleaf is much better than Microsoft Word (or MS Word) for academ
 # Benefits of using Overleaf
 
 1. It is totally web-based and no installation is required.
-2. Many universities (e.g. UCL) provide free license of Overleaf, which allows many collaborators for one project.
+2. Many universities (e.g. UCL) provide free and life-long license of Overleaf, which allows many collaborators for one project.
 3. It is very easy to change the template. For example, if my paper submission to Journal A is rejected and I want to submit it to Journal B, it may take 30 minutes to change the template on Overleaf and resubmit. If I use MS Word, it might take hours or days.
-4. It has a rich text mode (see [link](https://www.overleaf.com/blog/the-updated-rich-text-editor-simplifies-team-collaboration)), which is very similar to the MS Word interface.
-5. It has functionality of "Track Changes" and "Add comments".
+4. It has a rich text mode (see [link](https://www.overleaf.com/blog/the-updated-rich-text-editor-simplifies-team-collaboration)), which resembles MS Word interface.
+5. It has functionality of "Track Changes" (see [link](https://www.overleaf.com/learn/how-to/Track_Changes_in_Overleaf)) and "Add comments" (see [link](https://www.overleaf.com/learn/how-to/How_to_make_comments_in_an_Overleaf_LaTeX_project)).
 6. It can be integrated with Github, Zotero, etc.
 7. There are lots of template of Overleaf. You can use it to write papers, prepare slides (using Beamer), prepare and update CVs.
 
@@ -41,3 +41,4 @@ TL;DR: Using overleaf is much better than Microsoft Word (or MS Word) for academ
 
 1. UCL webpage and overleaf course at UCL: see [link](https://blogs.ucl.ac.uk/digital-education/2020/10/20/overleaf-now-available/). 
 2. 30-minute tutorial from Overleaf ([link](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)). Please note that you don't need to learn everything about overleaf and Latex in one go. You can download an Overleaf template and write your own draft using template, and gradually learn Overleaf techniques when needed.
+3. Overleaf templates ([link](https://www.overleaf.com/latex/templates)). Here you can find templates for UCL dissertation, Springer Nature LaTeX Template, etc. You can find more templates from Google/Github/CASA folks.
