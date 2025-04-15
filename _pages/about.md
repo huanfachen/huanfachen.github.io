@@ -15,9 +15,9 @@ I am also interested in GeoAI, which concerns the use of artificial intelligence
 
 I integrate a wide range of computational approaches in research, which include deep neural networks, meta-heuristics (eg, genetic algorithms, tabu search), agent-based simulation, and reinforcement learning.
 
-I blog from time to time on a range of different topics. For my posts, please visit [here]().
+I blog from time to time on a range of different topics. For my posts, please visit [here](posts).
 
-For latest news, please visit [here]().
+For latest news, please visit [here](news).
 
 # Working with me?
 
