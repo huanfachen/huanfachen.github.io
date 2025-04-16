@@ -32,6 +32,7 @@ You are a senior editor of several prestigious academic journals, including *App
 
 Your response must be in English and adhere strictly to the above guidelines. Here is the paragraph to rewrite:
 ```
+<INSERT THE PARAGRAPH HERE>
 ```
 ````
 
