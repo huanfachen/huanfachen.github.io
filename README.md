@@ -15,8 +15,6 @@ Same for the 'Portfolio' tab. To view it, use URL of .../portfolio
 1. **To update the front page**: see _page/about.md
 
 
-
-
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
